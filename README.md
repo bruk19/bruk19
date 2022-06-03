@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-#### I'm a former DVM becoming a Full-Stack Developer from Ethiopia
+#### I'm a former Digital Marketing becoming a Full-Stack Developer from Ethiopia
 
 <hr>
 
