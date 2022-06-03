@@ -1,8 +1,9 @@
+
 <div id="languajes" align="center">
 
 ### Hi there 👋
 
-#### I'm a former DVM becoming a Full-Stack Developer from Ethiopia
+#### I'm a Digital Marketing cordinater and becoming a Full-Stack Developer from Ethiopia
 
 <hr>
 
