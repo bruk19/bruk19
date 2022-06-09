@@ -12,7 +12,7 @@
 - NBA fan
 - 🦾 Available to hire 
 - Microverse Student
-- Experienced on Digital Marketing
+- Experienced on Digital Marketing and Google Analytic
 
 
 <hr>
