@@ -8,11 +8,21 @@
 <hr>
 
 ### About me:
-    - 🔥 Learning Front-End/Back-End technologies everyday.
-    - Formula 1 Fan 🏁
-    - 🦾 Available to hire 
-    - A Microverse's Alumn. Received my certification as Full-Stack Web Developer.
-    - Experienced on Digital Marketing and Google Analytic.
+<div id="about" align="left">
+- 🔥 Learning Front-End/Back-End technologies everyday.
+</div>
+<div id="about" align="left">
+- Formula 1 Fan 🏁
+</div>
+<div id="about" align="left">
+- 🦾 Available to hire 
+</div>
+<div id="about" align="left">
+- A Microverse's Alumn. Received my certification as Full-Stack Web Developer.
+</div>
+<div id="about" align="left">
+- Experienced on Digital Marketing and Google Analytic.
+</div>
 
 
 <hr>
