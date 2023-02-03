@@ -8,11 +8,11 @@
 <hr>
 
 #### About me:
-- 🔥 Learning Front-End technologies everyday
-- NBA fan
-- 🦾 Available to hire 
-- Microverse Student
-- Experienced on Digital Marketing and Google Analytic
+ 🔥 Learning Front-End technologies everyday
+ NBA fan
+ 🦾 Available to hire 
+ Microverse Student
+ Experienced on Digital Marketing and Google Analytic
 
 
 <hr>
