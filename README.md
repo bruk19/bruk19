@@ -6,17 +6,19 @@
 #### I'm a Digital Marketing cordinater and becoming a Full-Stack Developer from Ethiopia
 
 <hr>
-<div id="languajes" align="center">
+
 #### About me:
+  <div id="about" align="center">
                                       🔥 Learning Front-End technologies everyday
                              NBA fan
                            🦾    Available to hire 
                             Microverse Student
                                        Experienced on Digital Marketing and Google Analytic
+  </div>
 
 
 <hr>
-  </div>
+
 
 
 #### Languajes / Frameworks:
